@@ -3,6 +3,6 @@
 "name": "geo_09_夜間対応型訪問介護",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "定期巡回型訪問介護看護ひだまり【夜間対応型訪問介護】栃木県宇都宮市900‐1", "url2": "https://www.kaigokensaku.mhlw.go.jp/09/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0990100950-00&ServiceCd=710&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.903409177368161, 36.599336446498206 ] } }
+{ "type": "Feature", "properties": { "内容": "定期巡回型訪問介護看護ひだまり【夜間対応型訪問介護】栃木県宇都宮市900‐1", "url": "https://www.kaigokensaku.mhlw.go.jp/09/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=0990100950-00&ServiceCd=710&Type=search", "url2": "http：//www.toyosato-g.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.903409177368161, 36.599336446498206 ] } }
 ]
 }
