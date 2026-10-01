@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_09_中等教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "09204", "P29_002": "D209310000013", "P29_003": "16003", "P29_004": "佐野日本大学中等教育学校", "P29_005": "栃木県佐野市石塚町2555", "P29_006": "4", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 139.554990070800102, 36.356115727679637 ] } }
+]
+}
